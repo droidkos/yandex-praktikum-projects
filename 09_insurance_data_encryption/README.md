@@ -10,3 +10,6 @@
 - NumPy
 - seaborn
 - scikit-learn
+
+### Статус проекта
+Завершен
