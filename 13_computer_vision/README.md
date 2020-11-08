@@ -9,10 +9,9 @@
 
 ### Используемые библиотеки
 - pandas
-- numpy
 - tensorflow
 - keras
-- matplotlib
+- plotly
 
 ### Статус проекта
-В работе
+Завершен
